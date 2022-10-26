@@ -1,0 +1,32 @@
+{
+  "name": "wordguess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Tascione/employee-roster.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/John-Tascione/employee-roster/issues"
+  },
+  "homepage": "https://github.com/John-Tascione/employee-roster#readme"
+}
